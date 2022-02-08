@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/shashwat1225?tab=repositories](https://github.com/shashwat1225?tab=repositories)
 
-- 💬 Can bore you about **TensorFlow, PyTorch, Jenkins, SQL, Machine Learning and Neural Networks.**
+- 💬 Can bore you by talking about **TensorFlow, PyTorch, Jenkins, SQL, Machine Learning and Neural Networks.**
 
 - 📫 Reach me at **shashwat1225@gmail.com**
 
