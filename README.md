@@ -17,6 +17,7 @@
 
 - ⚡ Subtle fact about me: **Knows a few chess moves.**
 
+### &#127911; **Currently Listening on Spotify**
 [![Spotify](https://spotify-repo-shashwat1225.vercel.app/api/spotify)](https://open.spotify.com/user/p50ii9d94gojw2moyhjigkimy)
 
 <h3 align="left">Connect with me:</h3>
