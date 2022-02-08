@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Pandey</h1>
-<h3 align="center">A young enough Data Engineer and a connoisseur of sky pictures from India, adept in ETL development, statistical modelling, maintaining software development lifecycle and drinking Diet Coke.</h3>
+<h3 align="center">A "young enough" Data Engineer and a connoisseur of sky pictures from India, adept in ETL development, statistical modelling, maintaining software development lifecycle and drinking Diet Coke.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1225&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1225" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk](https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk)
 
-- ⚡ Subtle fact about me: **Knows a few chess moves.**
+- ⚡ What makes me stand out: **Knowing a few chess moves.**
 
 ### &#127911; **Currently Listening on Spotify**
 [![Spotify](https://spotify-repo-shashwat1225.vercel.app/api/spotify)](https://open.spotify.com/user/p50ii9d94gojw2moyhjigkimy)
