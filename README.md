@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1225&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1225" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashwat1225" alt="shashwat1225" /></a> </p>
-
 - 🔭 I’m currently working on **Google's TensorFlow Certification**
 
 - 👯 I’m looking to collaborate on **Natural Language Processing, Computer Vision, Data Engineering, Data Visualization and Jenkins based DevOps projects.**
@@ -33,4 +31,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwat1225&show_icons=true&locale=en" alt="shashwat1225" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat1225&" alt="shashwat1225" /></p>
