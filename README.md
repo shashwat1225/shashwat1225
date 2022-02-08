@@ -17,6 +17,8 @@
 
 - ⚡ Subtle fact about me **Knows a few chess moves.**
 
+[![Spotify](https://shashwat1225.vercel.app/api/spotify)](https://open.spotify.com/user/p50ii9d94gojw2moyhjigkimy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shashwat-p-4a4050115/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shashwat-p-4a4050115/" height="30" width="40" /></a>
