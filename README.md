@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk](https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk)
 
-- ⚡ Subtle fact about me **Knows a few chess moves.**
+- ⚡ Subtle fact about me: **Knows a few chess moves.**
 
 [![Spotify](https://spotify-repo-shashwat1225.vercel.app/api/spotify)](https://open.spotify.com/user/p50ii9d94gojw2moyhjigkimy)
 
