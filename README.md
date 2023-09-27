@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashwat Pandey</h1>
-<h3 align="center">A "young enough" Data Engineer and a connoisseur of sky pictures from India, adept in ETL development, statistical modelling, maintaining software development lifecycle and drinking Diet Coke.</h3>
+<h3 align="center">A "young enough" Software Engineer and a connoisseur of sky pictures from India, adept in Web development, machine learning, statistical modelling, data science, maintaining software development lifecycle and drinking Diet Coke.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1225&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1225" /> </p>
 
