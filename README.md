@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwat1225&label=Profile%20views&color=0e75b6&style=flat" alt="shashwat1225" /> </p>
 
-- 🔭 Currently working on **Google's TensorFlow Certification**
+- 🔭 Currently learning to work on **Carla for Autonomous Driving Simulation**
 
-- 👯 Looking to collaborate on **Natural Language Processing, Computer Vision, Data Engineering, Data Visualization and Jenkins based DevOps projects.**
+- 👯 Looking to collaborate on **Natural Language Processing, Computer Vision, MLOps, Full-Stack Development, Data Engineering, and Jenkins based DevOps projects.**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/shashwat1225?tab=repositories](https://github.com/shashwat1225?tab=repositories)
 
-- 💬 Can bore you by talking about **TensorFlow, PyTorch, Jenkins, SQL, Machine Learning and Neural Networks.**
+- 💬 Can bore you by talking about **LLMs, GenAI, Artifiicial General Intelligence, Foundational Models.**
 
-- 📫 Reach me at **shashwat1225@gmail.com**
+- 📫 Reach me at **spandey1225@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk](https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk](https://drive.google.com/file/d/1jEyPBIGJ7-1VRuse2lOrYf9SUDgXG_UF/view?usp=drivesdk)]
 
 - ⚡ What makes me stand out: **Knowing a few chess moves.**(I guess)
 
